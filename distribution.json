@@ -12,7 +12,7 @@
       "name": "카토제국 포켓몬서버",
       "description": "KatoPokemon Running Minecraft 1.16.5 (Forge v36.2.42)",
       "icon": "https://raw.githubusercontent.com/Katozarasi/katopokemon-distro/main/serverIMG.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "1.224.237.11",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -454,6 +454,26 @@
             "size": 375934,
             "url": "https://raw.githubusercontent.com/Katozarasi/katopokemon-distro/main/servers/KatoPokemon-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 6459,
+            "url": "https://raw.githubusercontent.com/Katozarasi/katopokemon-distro/main/servers/KatoPokemon-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://raw.githubusercontent.com/Katozarasi/katopokemon-distro/main/servers/KatoPokemon-1.16.5/files/servers.dat",
+            "path": "servers.dat"
           }
         },
         {
